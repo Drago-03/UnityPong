@@ -5,3 +5,4 @@ This is basic 3d Unity ping pong based game. This project is incomplete as i mad
 In this, so far I've added 2 scenes. Scene 1- Main Menu. (which contains start game(working), Settings page(not working-Incomplete), and Exit(working) Scene 2- COntains the main game.
 
 This project uses UnityEditor 2021.3.29f1.
+
